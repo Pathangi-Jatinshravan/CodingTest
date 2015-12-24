@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodingTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_category">Show Category</string>
+    <string name="verified">Verified</string>
+    <string name="unverified">Unverified</string>
+    <string name="fraud">Fraud</string>
+    <string name="all">All</string>
+</resources>
